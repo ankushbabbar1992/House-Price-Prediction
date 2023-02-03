@@ -34,25 +34,25 @@ This file contains 4 folders:
 4. **Model**
 </br>
 </br>
-**1. EDA** <BR/>
+#### EDA
 The EDA ( Exploratory Data Analysis ) folder contains various visualizations performed on different datasets used in the project.
 </br>
 </br>
-**2. GUI**
+#### GUI
 This folder contains all the codes for Graphical User Interface which was made with the help of Tkinter. Moreover it has files which are used(imported) in the main file for API calls.
 </br>
 </br>
-**3. Hypothesis Testing**
+#### Hypothesis Testing
 This folder contains 6 hypothesis testing which were done , namely: </br>
-      - Hypothesis I: Income of Householders vs House Price </br>
-      - Hypothesis II: Inflation vs House Price </br>
-      - Hypothesis III: Economy (GDP) vs House Price Index </br>
-      - Hypothesis IV: Interest Rate (Bank Rate) vs House Price Index </br>
-      - Hypothesis V: Outstanding Debt (Balance) vs House Prices </br>
-      - Hypothesis VI: Stock Market vs House Price Index </br>
+- Hypothesis I: Income of Householders vs House Price </br>
+- Hypothesis II: Inflation vs House Price </br>
+- Hypothesis III: Economy (GDP) vs House Price Index </br>
+- Hypothesis IV: Interest Rate (Bank Rate) vs House Price Index </br>
+- Hypothesis V: Outstanding Debt (Balance) vs House Prices </br>
+- Hypothesis VI: Stock Market vs House Price Index </br>
 </br>
 </br>
-**4. Model**
+#### 4. Model
 This folder contains all the Machine Learning Models used. Various Hypertunning and feature scaling techniques were used.</br>
 **Unsupervised Learning Model (K-Means Clustering)**</br>
 **Sequential Neural Networks**</br>
