@@ -44,12 +44,12 @@ This folder contains all the codes for Graphical User Interface which was made w
 </br>
 ### Hypothesis Testing
 This folder contains 6 hypothesis testing which were done , namely: </br>
-- Hypothesis I: Income of Householders vs House Price </br>
-+ Hypothesis II: Inflation vs House Price </br>
-+ Hypothesis III: Economy (GDP) vs House Price Index </br>
-+ Hypothesis IV: Interest Rate (Bank Rate) vs House Price Index </br>
-+ Hypothesis V: Outstanding Debt (Balance) vs House Prices </br>
-+ Hypothesis VI: Stock Market vs House Price Index </br>
+*Hypothesis I: Income of Householders vs House Price </br>
++Hypothesis II: Inflation vs House Price </br>
++Hypothesis III: Economy (GDP) vs House Price Index </br>
++Hypothesis IV: Interest Rate (Bank Rate) vs House Price Index </br>
++Hypothesis V: Outstanding Debt (Balance) vs House Prices </br>
++Hypothesis VI: Stock Market vs House Price Index </br>
 </br>
 </br>
 ### Model
