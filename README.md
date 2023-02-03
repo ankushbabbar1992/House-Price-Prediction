@@ -53,10 +53,10 @@ This folder contains 6 hypothesis testing which were done , namely: </br>
 </br>
 ### Model
 This folder contains all the Machine Learning Models used. Various Hypertunning and feature scaling techniques were used.</br>
-**Unsupervised Learning Model (K-Means Clustering)**</br>
-**Sequential Neural Networks**</br>
-**RandomForest Regressor**</br>
-**XGBoost Regressor**</br>
-**Sequential Neural Network**</br>
+* **Unsupervised Learning Model (K-Means Clustering)**</br>
+* **Sequential Neural Networks**</br>
+* **RandomForest Regressor**</br>
+* **XGBoost Regressor**</br>
+* **Sequential Neural Network**</br>
 </br>
 </br>
