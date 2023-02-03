@@ -49,8 +49,6 @@ This folder contains 6 hypothesis testing which were done , namely: </br>
 + **Hypothesis IV**: Interest Rate (Bank Rate) vs House Price Index </br>
 + **Hypothesis V**: Outstanding Debt (Balance) vs House Prices </br>
 + **Hypothesis VI**: Stock Market vs House Price Index </br>
-</br>
-</br>
 ### Model
 This folder contains all the Machine Learning Models used. Various Hypertunning and feature scaling techniques were used.</br>
 * **Unsupervised Learning Model (K-Means Clustering)**</br>
@@ -58,5 +56,3 @@ This folder contains all the Machine Learning Models used. Various Hypertunning 
 * **RandomForest Regressor**</br>
 * **XGBoost Regressor**</br>
 * **Sequential Neural Network**</br>
-</br>
-</br>
