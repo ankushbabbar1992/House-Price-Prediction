@@ -34,7 +34,7 @@ This file contains 4 folders:
 4. **Model**
 </br>
 </br>
-**1. EDA**
+**1. EDA** <BR/>
 The EDA ( Exploratory Data Analysis ) folder contains various visualizations performed on different datasets used in the project.
 </br>
 </br>
@@ -44,12 +44,12 @@ This folder contains all the codes for Graphical User Interface which was made w
 </br>
 **3. Hypothesis Testing**
 This folder contains 6 hypothesis testing which were done , namely: </br>
-      Hypothesis I: Income of Householders vs House Price </br>
-      Hypothesis II: Inflation vs House Price </br>
-      Hypothesis III: Economy (GDP) vs House Price Index </br>
-      Hypothesis IV: Interest Rate (Bank Rate) vs House Price Index </br>
-      Hypothesis V: Outstanding Debt (Balance) vs House Prices </br>
-      Hypothesis VI: Stock Market vs House Price Index </br>
+      - Hypothesis I: Income of Householders vs House Price </br>
+      - Hypothesis II: Inflation vs House Price </br>
+      - Hypothesis III: Economy (GDP) vs House Price Index </br>
+      - Hypothesis IV: Interest Rate (Bank Rate) vs House Price Index </br>
+      - Hypothesis V: Outstanding Debt (Balance) vs House Prices </br>
+      - Hypothesis VI: Stock Market vs House Price Index </br>
 </br>
 </br>
 **4. Model**
